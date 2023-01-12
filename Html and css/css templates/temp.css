@@ -1,0 +1,38 @@
+*{margin:0px;padding:0px;}
+body{background:white}
+#head_top{background:blue; width:1100px; height:180px;margin:0 auto;}
+.box1{background:yellow;width:100px;height:40px;margin:0px 10px; float:left;}
+.box2{background:red;width:100px; height:40px;margin:0px 10px;float:right;border-radius:50px;}
+.box3{background:gray;width:100px;height:40px;margin:0px 10px;float:right;}
+
+#body{background:blue; width:1100px; height:100px;margin:0 auto;}
+.r1{background:purple;width:550px;height:50px;margin:0 auto;}
+.d1{background:green;width:70px;height:35px;float:left;margin:8px;}
+.d2{background:aqua;width:100px;height:35px;float:right;margin:8px;border-radius:50px;}
+
+#content{background:red;width:1100px;height:300px;margin:0 auto;}
+#r2{background:red;width:900px;height:300px;margin:0 auto;}
+.d3{background:gray;width:200px;height:140px;float:left;margin:70px 10px 10px 70px;}
+.d_3{background:blue;width:80px;height:30px;float:left;margin:10px;border-radius:10px;}
+
+#content1{background:yellow;width:1100px;height:450px;margin:0 auto;}
+#r3{background:yellow;width:900px;height:140px;margin:0 auto;}
+#d4{background:aqua;width:200px;height:140px;float:left;margin:50px 10px 10px 100px;}
+#d5{background:purple;width:380px;height:140px;float:left;margin:50px 10px 10px 100px;}
+#d6{background:purple;width:380px;height:140px;float:left;margin:50px 10px 10px 100px;}
+#d7{background:aqua;width:200px;height:140px;float:left;margin:50px 10px 10px 100px;}
+.d_4{background:purple;width:80px;height:30px;float:left;margin:10px;border-radius:10px;}
+.d_5{background:aqua;width:80px;height:30px;float:left;margin:10px;border-radius:10px;}
+
+#content2{background:lime;width:1100px;height:300px;margin:0 auto;}
+.d6{background:#4bd0f4;width:200px;height:200px;float:left;margin:50px 10px 10px 120px;border-radius:10px;}
+.d_6{width:100px;height:100px;background:#a491e0;margin:50px;float:left;border-radius:50px;}
+
+#content3{background:pink;width:1100px;height:250px;margin:0 auto;}
+#d9{background:pink;width:200px;height:140px;margin:90px 600px 10px 500px;float:left;}
+.d_7{width:100px;height:100px;background:#a491e0;float:left;margin:0 auto;border-radius:50px;}
+
+#content4{background:#47e586;width:1100px;height:100px;margin:0 auto;}
+.d8{width:100px;height:100px;background:#a491e0;float:left;}
+
+
